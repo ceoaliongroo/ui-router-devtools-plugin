@@ -1,7 +1,6 @@
 {
+  "manifest_version": 2,
   "name": "ui-router-debugger",
-  "version": "0.0.0",
-  "description": "Enable DevTools experiments in about:flags, toggle \"Allow UI themes\" experiment.",
-  "devtools_page": "devtools.html",
-  "manifest_version": 2
+  "description": "This extension to debug UI-Router in Devtools",
+  "version": "0.0.1"
 }
